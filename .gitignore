@@ -1,0 +1,5 @@
+# macOS folder settings
+.DS_Store
+
+# Vercel CLI link to the project (made by `npx vercel`)
+.vercel
